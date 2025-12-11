@@ -30,6 +30,7 @@ html,body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;  
+    background-attachment: fixed;
 }
 
 .ptext1{
@@ -78,4 +79,5 @@ html,body{
    background: #313534;
     color: #fff;
     padding: 20px;
+
 }
